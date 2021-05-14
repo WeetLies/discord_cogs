@@ -65,16 +65,35 @@ craw = 크롤링 관련 소스
 sim = 특정시뮬/연산 소스
 
 ## 추가된 소스 정보
+2021/05/14 Update
+--> sim_kerningparty.py # 커닝파티퀘스트 연산 족보
+
+--> sim_red_wepon.py # 메이플 레드큐브로 무기 돌렸을때 나오는 옵션 시뮬
+
+--> sim_training.py # 메이플 심신수련관 연산정보
+
 2021/05/12 Update
 --> Game_doubledice.py # 주사위 2개던져서 값보기
+
 --> Game_rulet.py #1~99사이의 룰렛 돌리기
+
 --> craw_charicinfo.py # maple.gg에서 캐릭터정보 받아와서 embed로 출력하기
+
 --> craw_home.py #메이플홈페이지에서 공지/점검(패치)/업데이트/이벤트/캐시샵공지를 크롤링해서 embed로 출력
+
 --> craw_lunadream.py #메이플홈페이지에서 루나드림 펫 확률을 크롤링해서 embed로 출력
+
 --> craw_lunasweet.py #메이플홈페이지에서 루나스윗 펫 확률을 크롤링해서 embed로 출력
+
 --> craw_pieceblack.py #메이플홈페이지에서 마스터피스 블랙라벨 확률을 크롤링해서 embed로 출력
+
 --> craw_piecered.py #메이플홈페이지에서 마스터피스 레드라벨 확률을 크롤링해서 embed로 출력
+
 --> craw_royalhair.py #메이플홈페이지에서 로얄 헤어쿠폰 확률을 크롤링해서 embed로 출력
+
 --> craw_royalstyle.py #메이플홈페이지에서 로얄스타일 확률을 크롤링해서 embed로 출력
+
 --> craw_royalsurgery.py #메이플홈페이지에서 로얄 성형쿠폰 확률을 크롤링해서 embed로 출력
+
 --> craw_wonderberry.py #메이플홈페이지에서 원더베리 확률을 크롤링해서 embed로 출력
+
